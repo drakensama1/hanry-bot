@@ -11,18 +11,18 @@ global.botnumber = ""
 global.confirmCode = ""
 
 global.owner = [
-  ['22247072475', '👑 Mystic - Creador 👑', true],
+  ['201556868722', '🎴𝑫𝑹𝑨𝑲𝑬𝑵|𝑺𝑨𝑴𝑨🎴', true],
 ];
 
-global.suittag = ['22247072475'];
-global.prems = ['22247072475'];
+global.suittag = ['201556868722'];
+global.prems = ['201556868722'];
 
 global.packname = 'Sticker';
-global.author = 'SHANKS - Bot';
-global.wm = 'SHANKS - Bot';
-global.titulowm = 'SHANKS - Bot';
-global.titulowm2 = `SHANKS - Bot`
-global.igfg = 'SHANKS - Bot';
+global.author = 'ryuguji - Bot';
+global.wm = 'ryuguji - Bot';
+global.titulowm = 'ryuguji - Bot';
+global.titulowm2 = `ryuguji - Bot`
+global.igfg = 'ryuguji - Bot';
 global.wait = '*[ ⏳ ] تَحْميل...*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -43,15 +43,15 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\nshanks - Bot`;
-global.gt = 'shanks - Bot';
-global.mysticbot = 'SHANKS - Bot';
+global.wm2 = `${dia} ${fecha}\nryuguji - Bot`;
+global.gt = 'ryuguji - Bot';
+global.mysticbot = 'ryuguji - Bot';
 global.md = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.waitt = '*[ ⏳ ] Cargando...*';
 global.waittt = '*[ ⏳ ] Cargando...*';
 global.waitttt = '*[ ⏳ ] Cargando...*';
-global.nomorown = '22247072475';
+global.nomorown = '201556868722';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
