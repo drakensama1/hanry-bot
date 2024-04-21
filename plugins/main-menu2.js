@@ -35,9 +35,12 @@ let more = String.fromCharCode(8206)
 let readMore = more.repeat(900) 
   const taguser = '@' +  m.sender.split('@s.whatsapp.net')[0];
 let str = `*
-قناتي لتتعلم كيف تعمل بوت:
+اهـلا بيك يـا ${taguser}
 
-https://whatsapp.com/channel/0029VaUTbPnBKfhygQtsJh35
+✪ مــعاك بـوت ريوجي 🌑🎴
+وقـت الــتشغيل ☜ ${uptime}
+الــيوم ☜ ${week}
+الــمطور ☜ wa.me/+201556868722
 
 *💥❯══⊹⊱≼ اوامر البوت ≽⊰⊹══❮💥*
 
